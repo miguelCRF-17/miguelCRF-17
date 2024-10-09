@@ -1,4 +1,7 @@
-## Hi there 👋
+## oi!
+![image](https://github.com/user-attachments/assets/5a26fddf-9025-4f64-9071-397be51ba9ec)
+
+👋
 
 <!--
 **miguelCRF-17/miguelCRF-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
